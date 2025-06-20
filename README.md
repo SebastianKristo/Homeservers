@@ -1,7 +1,7 @@
 # My Homeserver Setup
 
 
-## Navigation
+## Navigasjon
 * [Apps](https://github.com/TechHutTV/homelab/tree/main/apps) - List of all the apps and services.
 * [Home Assistant](https://github.com/TechHutTV/homelab/tree/main/homeassistant) - Smart home services and automation.
 * [Media Server](https://github.com/TechHutTV/homelab/tree/main/media) - Plex, Jellyfin, *arr stack, and more.
@@ -10,12 +10,12 @@
 * [Storage](https://github.com/TechHutTV/homelab/tree/main/storage) - Current Storage and Backup Solution.
 * [Proxy Managment](https://github.com/TechHutTV/homelab/tree/main/proxy) - NGINX Proxy Manager, DDNS with Cloudflare, Local Domains, and more.
 
-## Hardware
+## Komponenter
 
 ![counter top lab](https://github.com/TechHutTV/homelab/blob/main/storage/homelab.png)
 
 #### Aoostar Wrt Pro (Unraid)
-This machine is running Proxmox. Due to a free PCIe slot this has an additional Coral TPU and I'm currently testing it with Blue Iris. Running Immich for personal photo backups and MeTube to pull YouTube videos for use in media projects. This machines handles the network shares that connect to our Nextcloud instance.
+Denne maskinen kjører Unraid. Due to a free PCIe slot this has an additional Coral TPU and I'm currently testing it with Blue Iris. Running Immich for personal photo backups and MeTube to pull YouTube videos for use in media projects. This machines handles the network shares that connect to our Nextcloud instance.
 * 12th Gen Intel Core i5 1235U
 * [16GB SODIMM DDR5](https://amzn.to/3YqeZ9A)
 * [DataTraveler 3.0 32GB USB](https://amzn.to/4fovZUR) (Boot Drive)
